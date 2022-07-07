@@ -14,12 +14,12 @@
       "adapterConf": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "Annotation/MSU7_annotation.gff3.gz",
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/MSU7_annotation.gff3.gz",
           "locationType": "UriLocation"
         },
         "index": {
           "location": {
-            "uri": "Annotation/MSU7_annotation.gff3.gz.tbi",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/MSU7_annotation.gff3.gz.tbi",
             "locationType": "UriLocation"
           },
           "indexType": "TBI"

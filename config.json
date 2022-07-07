@@ -8,15 +8,15 @@
         "adapter": {
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
-            "uri": "TAIR10.fa.gz",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz",
             "locationType": "UriLocation"
           },
           "faiLocation": {
-            "uri": "TAIR10.fa.gz.fai",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.fai",
             "locationType": "UriLocation"
           },
           "gziLocation": {
-            "uri": "TAIR10.fa.gz.gzi",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.gzi",
             "locationType": "UriLocation"
           }
         }
@@ -30,15 +30,15 @@
         "adapter": {
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
-            "uri": "MSU7.fa.gz",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/MSU7.fa.gz",
             "locationType": "UriLocation"
           },
           "faiLocation": {
-            "uri": "MSU7.fa.gz.fai",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/MSU7.fa.gz.fai",
             "locationType": "UriLocation"
           },
           "gziLocation": {
-            "uri": "MSU7.fa.gz.gzi",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/MSU7.fa.gz.gzi",
             "locationType": "UriLocation"
           }
         }
@@ -58,12 +58,12 @@
       "adapter": {
         "type": "Gff3TabixAdapter",
         "gffGzLocation": {
-          "uri": "Annotation/TAIR10_annotation.gff3.gz",
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10_annotation.gff3.gz",
           "locationType": "UriLocation"
         },
         "index": {
           "location": {
-            "uri": "Annotation/TAIR10_annotation.gff3.gz.tbi",
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10_annotation.gff3.gz.tbi",
             "locationType": "UriLocation"
           },
           "indexType": "TBI"
