@@ -173,6 +173,24 @@
     },
     {
       "type": "QuantitativeTrack",
+      "trackId": "nrpe1_H3K4m3",
+      "name": "nrpe1_H3K4m3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/histone/nrpe1_H3K4m3.bw"
+        }
+      },
+      "category": [
+        "Histone_Modification"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+    },
+    {
+      "type": "QuantitativeTrack",
       "trackId": "H3K4me1",
       "name": "H3K4me1",
       "adapter": {
@@ -503,24 +521,6 @@
         "type": "BigWigAdapter",
         "bigWigLocation": {
           "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/histone/nrpe1_H3K4m2.bw"
-        }
-      },
-      "category": [
-        "Histone_Modification"
-      ],
-      "assemblyNames": [
-        "TAIR10"
-      ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
-    },
-    {
-      "type": "QuantitativeTrack",
-      "trackId": "nrpe1_H3K4m3",
-      "name": "nrpe1_H3K4m3",
-      "adapter": {
-        "type": "BigWigAdapter",
-        "bigWigLocation": {
-          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/histone/nrpe1_H3K4m3.bw"
         }
       },
       "category": [
