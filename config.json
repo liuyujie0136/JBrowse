@@ -8,16 +8,13 @@
         "adapter": {
           "type": "BgzipFastaAdapter",
           "fastaLocation": {
-            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz",
-            "locationType": "UriLocation"
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz"
           },
           "faiLocation": {
-            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.fai",
-            "locationType": "UriLocation"
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.fai"
           },
           "gziLocation": {
-            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.gzi",
-            "locationType": "UriLocation"
+            "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/TAIR10.fa.gz.gzi"
           }
         }
       }
