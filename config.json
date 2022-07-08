@@ -530,6 +530,258 @@
         "TAIR10"
       ],
       "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_SWN-ChIP",
+      "name": "Col-0_SWN-ChIP",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/Col-0_SWN-ChIP.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against CLF/SWN-GFP in 10d seedling; and H3K27me3 in Col-0, clf-29, swn-4, and clf swn double mutant 10d seedling; from Chenlong Li and Yuhai Cui Lab (Shu et al., Plant Direct 2019)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_H3K27me3",
+      "name": "Col-0_H3K27me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/Col-0_H3K27me3.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against CLF/SWN-GFP in 10d seedling; and H3K27me3 in Col-0, clf-29, swn-4, and clf swn double mutant 10d seedling; from Chenlong Li and Yuhai Cui Lab (Shu et al., Plant Direct 2019)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "clf_H3K27me3",
+      "name": "clf_H3K27me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/clf_H3K27me3.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against CLF/SWN-GFP in 10d seedling; and H3K27me3 in Col-0, clf-29, swn-4, and clf swn double mutant 10d seedling; from Chenlong Li and Yuhai Cui Lab (Shu et al., Plant Direct 2019)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "swn_H3K27me3",
+      "name": "swn_H3K27me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/swn_H3K27me3.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against CLF/SWN-GFP in 10d seedling; and H3K27me3 in Col-0, clf-29, swn-4, and clf swn double mutant 10d seedling; from Chenlong Li and Yuhai Cui Lab (Shu et al., Plant Direct 2019)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_NRPE1-ChIP",
+      "name": "Col-0_NRPE1-ChIP",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/Col-0_inflorescence_NRPE1-ChIP.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against NRPE1 in Col-0, drm2 and nrpe1 inflorescence; from Steven Jacobsen Lab (Zhong et al., PNAS 2015)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "drm2_NRPE1-ChIP",
+      "name": "drm2_NRPE1-ChIP",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/drm2_inflorescence_NRPE1-ChIP.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against NRPE1 in Col-0, drm2 and nrpe1 inflorescence; from Steven Jacobsen Lab (Zhong et al., PNAS 2015)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "nrpe1_NRPE1-ChIP",
+      "name": "nrpe1_NRPE1-ChIP",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/nrpe1_inflorescence_NRPE1-ChIP.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against NRPE1 in Col-0, drm2 and nrpe1 inflorescence; from Steven Jacobsen Lab (Zhong et al., PNAS 2015)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_CLF-ChIP",
+      "name": "Col-0_CLF-ChIP",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/ChIP/Col-0_CLF-ChIP.bw"
+        }
+      },
+      "category": [
+        "ChIP-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "ChIP-seq against CLF/SWN-GFP in 10d seedling; and H3K27me3 in Col-0, clf-29, swn-4, and clf swn double mutant 10d seedling; from Chenlong Li and Yuhai Cui Lab (Shu et al., Plant Direct 2019)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_Ser2P_minus",
+      "name": "Col-0_pNET_Ser2P_minus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_Ser2P_rep1.minus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; from Zhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_Ser5P_plus",
+      "name": "Col-0_pNET_Ser5P_plus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_Ser5P_rep1.plus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; fromZhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_Ser5P_minus",
+      "name": "Col-0_pNET_Ser5P_minus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_Ser5P_rep1.minus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; from Zhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_unPh_plus",
+      "name": "Col-0_pNET_unPh_plus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_unph_rep1.plus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; from Zhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_unPh_minus",
+      "name": "Col-0_pNET_unPh_minus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_unph_rep1.minus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; from Zhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Col-0_pNET_Ser2P_plus",
+      "name": "Col-0_pNET_Ser2P_plus",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/ath/NET-seq/Col-0_12d-seedling-leaf_pNET_Ser2P_rep1.plus.bw"
+        }
+      },
+      "category": [
+        "NET-seq"
+      ],
+      "assemblyNames": [
+        "TAIR10"
+      ],
+      "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; fromZhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
     }
   ]
 }
