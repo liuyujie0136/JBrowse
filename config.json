@@ -785,7 +785,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K14cr",
+      "trackId": "H3K14cr_rice",
       "name": "H3K14cr",
       "adapter": {
         "type": "BigWigAdapter",
@@ -803,7 +803,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K4me2",
+      "trackId": "H3K4me2_rice",
       "name": "H3K4me2",
       "adapter": {
         "type": "BigWigAdapter",
@@ -821,7 +821,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K4me3",
+      "trackId": "H3K4me3_rice",
       "name": "H3K4me3",
       "adapter": {
         "type": "BigWigAdapter",
@@ -839,7 +839,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K9ac",
+      "trackId": "H3K9ac_rice",
       "name": "H3K9ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -857,7 +857,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K9me1",
+      "trackId": "H3K9me1_rice",
       "name": "H3K9me1",
       "adapter": {
         "type": "BigWigAdapter",
@@ -875,7 +875,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K9me2",
+      "trackId": "H3K9me2_rice",
       "name": "H3K9me2",
       "adapter": {
         "type": "BigWigAdapter",
@@ -893,7 +893,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K9me3",
+      "trackId": "H3K9me3_rice",
       "name": "H3K9me3",
       "adapter": {
         "type": "BigWigAdapter",
@@ -911,7 +911,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K23ac",
+      "trackId": "H3K23ac_rice",
       "name": "H3K23ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -929,7 +929,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K27ac",
+      "trackId": "H3K27ac_rice",
       "name": "H3K27ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -947,7 +947,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K27me3",
+      "trackId": "H3K27me3_rice",
       "name": "H3K27me3",
       "adapter": {
         "type": "BigWigAdapter",
@@ -965,7 +965,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K36me3",
+      "trackId": "H3K36me3_rice",
       "name": "H3K36me3",
       "adapter": {
         "type": "BigWigAdapter",
@@ -983,7 +983,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H3K4ac",
+      "trackId": "H3K4ac_rice",
       "name": "H3K4ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -1001,7 +1001,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H4K12ac",
+      "trackId": "H4K12ac_rice",
       "name": "H4K12ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -1019,7 +1019,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "H4K16ac",
+      "trackId": "H4K16ac_rice",
       "name": "H4K16ac",
       "adapter": {
         "type": "BigWigAdapter",
@@ -1037,7 +1037,7 @@
     },
     {
       "type": "QuantitativeTrack",
-      "trackId": "Kcr",
+      "trackId": "Kcr_rice",
       "name": "Kcr",
       "adapter": {
         "type": "BigWigAdapter",
