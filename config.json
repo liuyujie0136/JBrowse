@@ -782,6 +782,276 @@
         "TAIR10"
       ],
       "description": "pNET-seq (plant native elongating transcript sequencing) of Col-0 12d seedling leaf; fromZhicheng Dong Lab (Zhu, Liu et al., Nat Plants 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K14cr",
+      "name": "H3K14cr",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K14cr.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K4me2",
+      "name": "H3K4me2",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K4me2.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K4me3",
+      "name": "H3K4me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K4me3.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K9ac",
+      "name": "H3K9ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K9ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K9me1",
+      "name": "H3K9me1",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K9me1.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K9me2",
+      "name": "H3K9me2",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K9me2.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K9me3",
+      "name": "H3K9me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K9me3.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K23ac",
+      "name": "H3K23ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K23ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K27ac",
+      "name": "H3K27ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K27ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K27me3",
+      "name": "H3K27me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K27me3.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K36me3",
+      "name": "H3K36me3",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K36me3.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H3K4ac",
+      "name": "H3K4ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H3K4ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H4K12ac",
+      "name": "H4K12ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H4K12ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "H4K16ac",
+      "name": "H4K16ac",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/H4K16ac.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+    },
+    {
+      "type": "QuantitativeTrack",
+      "trackId": "Kcr",
+      "name": "Kcr",
+      "adapter": {
+        "type": "BigWigAdapter",
+        "bigWigLocation": {
+          "uri": "https://data.cyverse.org/dav-anon/iplant/home/liuyujie0136/rice/histone/Kcr.bw"
+        }
+      },
+      "category": [
+        "Rice_Histone"
+      ],
+      "assemblyNames": [
+        "MSU7"
+      ],
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
     }
   ]
 }
