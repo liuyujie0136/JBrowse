@@ -187,7 +187,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -259,7 +259,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., The Plant Journal 2013)"
+      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., Plant J 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -295,7 +295,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., The Plant Journal 2013)"
+      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., Plant J 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -331,7 +331,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., The Plant Journal 2013)"
+      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., Plant J 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -349,7 +349,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K27me3 in Col-0 10d seedling; from Cao Xiaofeng and Deng Xian Lab (He et al., NSR 2021)"
+      "description": "ChIP-seq against H3K27me3 in Col-0 11d seedling; from He Xinjian Lab (Zhou et al., Plant J 2021)"
     },
     {
       "type": "QuantitativeTrack",
@@ -385,7 +385,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., The Plant Journal 2013)"
+      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., Plant J 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -403,7 +403,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., The Plant Journal 2013)"
+      "description": "ChIP-seq against almost all H3 histone modification in Col-0 2-week aerial part (leaf and shoot, etc.); from Eric Lam Lab (Luo et al., Plant J 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -421,7 +421,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -439,7 +439,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -457,7 +457,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -475,7 +475,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -493,7 +493,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -511,7 +511,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -529,7 +529,7 @@
       "assemblyNames": [
         "TAIR10"
       ],
-      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genetics 2013)"
+      "description": "ChIP-seq against H3K4me2 and H3K4me3 in Col-0 and RdDM mutants 3-week leaf; from Steven E. Jacobsen Lab (Greenberg et al., PLoS Genet 2013)"
     },
     {
       "type": "QuantitativeTrack",
@@ -799,7 +799,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -817,7 +817,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -835,7 +835,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -853,7 +853,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -871,7 +871,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -889,7 +889,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -907,7 +907,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -925,7 +925,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -943,7 +943,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -961,7 +961,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -979,7 +979,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -997,7 +997,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -1015,7 +1015,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -1033,7 +1033,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     },
     {
       "type": "QuantitativeTrack",
@@ -1051,7 +1051,7 @@
       "assemblyNames": [
         "MSU7"
       ],
-      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Molecular & Cellular Proteomics 2018)"
+      "description": "Almost comprehensive histone modification tracks of japonica rice seedling/leaf; containing H3K9me1, H3K9me3, H3K4ac, H3K27ac (Fang et al., Sci Rep 2016); H3K4me2, H3K36me3, H4K12ac (Zhang et al., Genome Res 2012); H3K4me3, H3K9ac, H3K27me3 (He et al., Plant Cell 2010); H3K23ac, H4K16ac (Lu et al., Epigenetics 2015); H3K9me2 of ZhongHua11 (Tan et al., Plant Physiol 2016); H3K14cr (Liu et al., Mol Cell Proteomics 2018)"
     }
   ]
 }
